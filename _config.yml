@@ -10,7 +10,7 @@ cover_image: /bg.jpeg
 collections:
   lessons:
     output: true # 关键：启用输出
-    permalink: /lessons/:path/ # 定义访问路径
+    permalink: /lessons/ # 定义访问路径
 
 # Gems
 plugins:
