@@ -14,7 +14,7 @@ taxonomies:
 collections:
   lessons:
     output: true  # 必须启用
-    permalink: /lessons/:name/ 
+    permalink: /lessons/ 
 # Gems
 plugins:
   - jekyll-gist
