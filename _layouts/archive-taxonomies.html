@@ -11,6 +11,8 @@ layout: default
   {%- assign taxonomies = site.categories -%}
 {%- elsif page.type == 'tags' -%}
   {%- assign taxonomies = site.tags -%}
+{%- elsif page.type == 'lessons' -%}
+  {%- assign taxonomies = site.lessons -%}
 {%- else -%}
   {%- assign taxonomies = none -%}
 {%- endif -%}
