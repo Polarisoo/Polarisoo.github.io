@@ -6,6 +6,7 @@ tags:
 - jekyll theme
 - jekyll
 date: 2020-10-01 13:56 +0800
+lessons: The origin
 ---
 The Jekyll theme **Not Pure Poole** v0.1.0 was released!
 
