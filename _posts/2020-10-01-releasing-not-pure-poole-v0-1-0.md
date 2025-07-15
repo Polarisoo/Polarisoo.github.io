@@ -6,7 +6,7 @@ tags:
 - jekyll theme
 - jekyll
 date: 2020-10-01 13:56 +0800
-lessons: [The origin2]
+lessons: [The origin2，1]
 categories: [博客搭建, Jekyll]
 ---
 The Jekyll theme **Not Pure Poole** v0.1.0 was released!
