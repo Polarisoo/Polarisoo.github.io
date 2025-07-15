@@ -4,7 +4,9 @@ title: Testing MathJax
 tags: mathjax
 math: true
 date: 2020-10-02 15:32 +0800
-lessons: [The origin, one]
+lessons: 
+  - "the-origin"  # 短横线格式，英文引号
+  - "advanced"
 categories: [博客搭建, Jekyll]
 ---
 Not Pure Poole supports [MathJax](https://www.mathjax.org/). You can enable it on a page by setting `math: true` in the front matter.

@@ -5,7 +5,9 @@ date: 2020-09-29 23:18 +0800
 last_modified_at: 2020-10-01 01:08:25 +0800
 tags: [jekyll theme, jekyll, tutorial]
 toc:  true
-lessons: [The origin, one]
+lessons: 
+  - "the-origin"  # 短横线格式，英文引号
+  - "advanced"
 categories: [博客搭建, Jekyll]
 ---
 Welcome to **Not Pure Poole**! This is an example post to show the layout.
