@@ -6,12 +6,9 @@ avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
 cover_image: /bg.jpeg
-#增加了lessons的一项
-collections:
-  lessons:
-    output: true # 关键：启用输出
-    permalink: /lessons/ # 定义访问路径
-
+##增加了lessons
+taxonomies:
+  - lessons  # 声明 lessons 为合法分类
 # Gems
 plugins:
   - jekyll-gist
