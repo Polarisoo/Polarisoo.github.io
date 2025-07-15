@@ -5,6 +5,7 @@ tags: mathjax
 math: true
 date: 2020-10-02 15:32 +0800
 lessons: The origin
+categories：2
 ---
 Not Pure Poole supports [MathJax](https://www.mathjax.org/). You can enable it on a page by setting `math: true` in the front matter.
 

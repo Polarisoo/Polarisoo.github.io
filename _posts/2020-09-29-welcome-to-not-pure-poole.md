@@ -6,6 +6,7 @@ last_modified_at: 2020-10-01 01:08:25 +0800
 tags: [jekyll theme, jekyll, tutorial]
 toc:  true
 lessons: The origin
+categories：3
 ---
 Welcome to **Not Pure Poole**! This is an example post to show the layout.
 {: .message }
